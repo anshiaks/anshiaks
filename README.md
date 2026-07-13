@@ -112,7 +112,7 @@ Automated fee and verification management system.
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/anshika-swaroop-67976a26a/)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anshika-swaroop-67976a26a/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:swaroopanshika999@gmail.com)
 
