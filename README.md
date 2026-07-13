@@ -130,6 +130,10 @@ Automated fee and verification management system.
 
 💼 Preparing for AI Engineering Roles
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/mehaksharma2949/mehaksharma2949/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 <p align="center">
